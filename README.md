@@ -1,3 +1,3 @@
 # GeneralsCompendium
 
-More to come
+More to come.
