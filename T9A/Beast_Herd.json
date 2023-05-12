@@ -5,19 +5,12 @@
    {
       "id":6702,
       "name":"Beast Lord",
-      "friendly_name":"Beast Lord",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+      "friendly_name":"Beast Lord"
     },
     {
       "id":6703,
       "name":"Beast Chieftain",
-      "friendly_name":"Beast Chieftain",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
-
+      "friendly_name":"Beast Chieftain"
     },
     {
       "id":6704,
@@ -54,18 +47,12 @@
     {
       "id":6700,
       "name":"Raiding Chariot",
-      "friendly_name":"Raiding Chariot",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003685475/AC4C44A75DFE5094D6790153EA045007DE1F28F9/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003684896/58BC34AC582F41C028697DAA616B8DE819F098C2/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003715008/D7CF6FB9904ABAA05E04A67D55507C13F1DAB911/"
+      "friendly_name":"Raiding Chariot"
     },
     {
       "id":6701,
       "name":"Razortusk Chariot",
-      "friendly_name":"Razortusk Chariot",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003685475/AC4C44A75DFE5094D6790153EA045007DE1F28F9/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003684896/58BC34AC582F41C028697DAA616B8DE819F098C2/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003715008/D7CF6FB9904ABAA05E04A67D55507C13F1DAB911/"
+      "friendly_name":"Razortusk Chariot"
     },
     {
       "id":6708,
@@ -132,10 +119,7 @@
     {
       "id":6717,
       "name":"Razortusk Chariot",
-      "friendly_name":"Razortusk Chariot",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003685475/AC4C44A75DFE5094D6790153EA045007DE1F28F9/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003684896/58BC34AC582F41C028697DAA616B8DE819F098C2/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192516003715008/D7CF6FB9904ABAA05E04A67D55507C13F1DAB911/"
+      "friendly_name":"Razortusk Chariot"
     },
     {
       "id":6718,
