@@ -1,21 +1,183 @@
+
 {
   "name":"Beast Herds",
   "list": [
+   {
+      "id":6702,
+      "name":"Beast Lord",
+      "friendly_name":"Beast Lord",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
     {
-      "id":"1",
+      "id":6703,
+      "name":"Beast Chieftain",
+      "friendly_name":"Beast Chieftain",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+
+    },
+    {
+      "id":6704,
+      "name":"Soothsayer",
+      "friendly_name":"Soothsayer",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6705,
+      "name":"Centaur Chieftain",
+      "friendly_name":"Centaur Chieftain",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910427785/D48A6D276FDD042732884AB510E8C778D5FF2802/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910426241/9603E36B104B3096B61C7F37C9AE34599EC410EA/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319993639550621/A13F9D99BB73E39240D5703816BDA6CC3DB9F0F9/"
+    },
+    {
+      "id":6706,
+      "name":"Minotaur Warlord",
+      "friendly_name":"Minotaur Warlord",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6707,
+      "name":"Minotaur Chieftain",
+      "friendly_name":"Minotaur Chieftain",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6700,
+      "name":"Raiding Chariot",
+      "friendly_name":"Raiding Chariot",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6701,
+      "name":"Razortusk Chariot",
+      "friendly_name":"Razortusk Chariot",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6708,
       "name":"Wildhorn Herd",
       "friendly_name":"Wildhorn Herd with Paired Weapons",
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1802026161155664281/9C6BB19695B03ED73CF8CD2491118C2CF61B9E79/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1802026161155649431/1E5E0AE68CEEAE77983D8959DF304F897DD7F097/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1697279419139662425/6EDDCA42665EC75A47B996E61F068528044DA64E/"
+
     },
     {
-      "id":"2",
+      "id":6709,
+      "name":"Mongrel Herd",
+      "friendly_name":"Mongrel Herd",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885340852/4E83898946C3A907478FFEC1A6DE27CF9E56AE09/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885282123/50C7B4450B6A0B56501868A9538C4011E2F467AD/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319890725045267/C41EB72BCD88FC37C6E1205058E10B14C0A3F24D/"
+    },
+    {
+      "id":6710,
+      "name":"Mongrel Raiders"
+    },
+    {
+      "id":6711,
+      "name":"Feral Hounds",
+      "friendly_name":"Feral Hounds",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6712,
       "name":"Longhorn Herd",
       "friendly_name":"Longhorn Herd with Halberds",
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692263754/07ED274A711147480F3637E9ED5468389EE59EC3/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692236477/96AC559D437CB7B8F41AB1648844AB4FFE1660C8/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692248704/483E9194B63F5F43E0A487349F843F8E94FCA79B/"
+    },
+    {
+      "id":6713,
+      "name":"Minotaurs"
+    },
+    {
+      "id":6714,
+      "name":"Centaurs",
+      "friendly_name":"Centaurs",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910427785/D48A6D276FDD042732884AB510E8C778D5FF2802/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910426241/9603E36B104B3096B61C7F37C9AE34599EC410EA/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319993639550621/A13F9D99BB73E39240D5703816BDA6CC3DB9F0F9/"
+    },
+    {
+      "id":6715,
+      "name":"Raiding Chariots",
+      "friendly_name":"Raiding Chariots",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6716,
+      "name":"Razortusk Herd",
+      "friendly_name":"Razortusk Herd"
+    },
+    {
+      "id":6717,
+      "name":"Razortusk Chariot",
+      "friendly_name":"Razortusk Chariot",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6718,
+      "name":"Briar Beast",
+      "friendly_name":"Briar Beast"
+    },
+    {
+      "id":6719,
+      "name":"Gargoyles",
+      "friendly_name":"Gargoyles"
+    },
+    {
+      "id":6720,
+      "name":"Cyclops",
+      "friendly_name":"Cyclops",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1834650103063656104/9FCF0D3AC1D06039BBD3F6268BE6573A309FF720/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1834650103063652526/BC2B01274E850236E60821096F2653FF70D7EFB9/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1676990001713072853/1E5F44EF6DB0C48B2D15C3E619EC5B8E37AED39B/"
+    },
+    {
+      "id":6721,
+      "name":"Gortach",
+      "friendly_name":"Gortach",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6722,
+      "name":"Jabberwock",
+      "friendly_name":"Jabberwock",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+    },
+    {
+      "id":6723,
+      "name":"Beast Giant",
+      "friendly_name":"Beast Giant",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D70"
     }
   ]
 }
