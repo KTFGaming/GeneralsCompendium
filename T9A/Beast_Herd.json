@@ -6,7 +6,7 @@
       "id":6706,
       "name":"Minotaur Warlord",
       "friendly_name":"Minotaur Warlord",
-      "scale":"0.5",
+      "scale":2,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1306556714522365129/9E24FA0BED774515A9FD9A83C4EB287D536830E0/"
