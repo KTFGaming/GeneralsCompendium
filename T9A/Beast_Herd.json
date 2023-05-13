@@ -6,17 +6,25 @@
       "id":6706,
       "name":"Minotaur Warlord",
       "friendly_name":"Minotaur Warlord",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910442481/B86C6F985C636420985AFA743DB7B2D28CBA6CB4/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910441233/32D3F29EA732AA6CC1EAE572F1DBD1A8FA9708B1/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319993639413387/86FA9B8D5017CD58927D55081002DA9B5091CC76/"
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1306556714522365129/9E24FA0BED774515A9FD9A83C4EB287D536830E0/"
     },
     {
       "id":6707,
       "name":"Minotaur Chieftain",
       "friendly_name":"Minotaur Chieftain",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1306556714522365129/9E24FA0BED774515A9FD9A83C4EB287D536830E0/"
+    },
+    {
+      "id":6708,
+      "name":"Wildhorn Herd",
+      "friendly_name":"Wildhorn Herd with Paired Weapons",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1802026161155664281/9C6BB19695B03ED73CF8CD2491118C2CF61B9E79/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1802026161155649431/1E5E0AE68CEEAE77983D8959DF304F897DD7F097/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1697279419139662425/6EDDCA42665EC75A47B996E61F068528044DA64E/"
     },
     {
       "id":6712,
@@ -33,6 +41,6 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D70"
-    }    
+    }
   ]
 }
