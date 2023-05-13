@@ -2,20 +2,21 @@
 {
   "name":"Beast Herds",
   "list": [
-   {
-      "id":6702,
-      "name":"Beast Lord",
-      "friendly_name":"Beast Lord"
+    {
+      "id":6706,
+      "name":"Minotaur Warlord",
+      "friendly_name":"Minotaur Warlord",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910442481/B86C6F985C636420985AFA743DB7B2D28CBA6CB4/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910441233/32D3F29EA732AA6CC1EAE572F1DBD1A8FA9708B1/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319993639413387/86FA9B8D5017CD58927D55081002DA9B5091CC76/"
     },
     {
-      "id":6703,
-      "name":"Beast Chieftain",
-      "friendly_name":"Beast Chieftain"
+      "id":6707,
+      "name":"Minotaur Chieftain",
+      "friendly_name":"Minotaur Chieftain",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
     },
-    {
-      "id":6704,
-      "name":"Soothsayer",
-      "friendly_name":"Soothsayer"
-    }
   ]
 }
