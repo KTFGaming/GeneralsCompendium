@@ -25,6 +25,14 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692263754/07ED274A711147480F3637E9ED5468389EE59EC3/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692236477/96AC559D437CB7B8F41AB1648844AB4FFE1660C8/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692248704/483E9194B63F5F43E0A487349F843F8E94FCA79B/"
-    }
+    },
+    {
+      "id":6723,
+      "name":"Beast Giant",
+      "friendly_name":"Beast Giant",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D70"
+    }    
   ]
 }
