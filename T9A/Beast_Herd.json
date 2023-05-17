@@ -39,10 +39,19 @@
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
     },
     {
+      "id":6708,
+      "name":"Wildhorn Herd",
+      "friendly_name":"Wildhorn Herd with Paired Weapons",
+      "scale": 1,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557006410891374/7B8769197D2D6CDC3AA68A3422AA121482AB9E99/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557006410891739/E46103026E16D02DC0E7EC19AF82F8FB71276741/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1696150821009148233/05059F8ED8126C725E473DB56F0F657C5B202D77/"
+    },
+    {
       "id":6711,
       "name":"Feral Hounds",
       "friendly_name":"Feral Hounds",
-      "scale": 1,
+      "scale": 0.75,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947421884/C9F48B62B333D6FDA9B125E587C2A32A4E52D98F/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947423558/DFD8EA353E0C679D5FDAB25565CD45E84E31B2DD/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
