@@ -68,6 +68,15 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947421884/C9F48B62B333D6FDA9B125E587C2A32A4E52D98F/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947423558/DFD8EA353E0C679D5FDAB25565CD45E84E31B2DD/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
+    },
+    {
+      "id":6713,
+      "name":"Minotaurs",
+      "friendly_name":"Minotaurs with Great Weapons",
+      "scale": 0.5,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
     }
   ]
 }
