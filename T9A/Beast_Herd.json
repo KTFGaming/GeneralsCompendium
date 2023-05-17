@@ -48,6 +48,19 @@
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1696150821009148233/05059F8ED8126C725E473DB56F0F657C5B202D77/"
     },
     {
+      "id":6709,
+      "name":"Mongrel Herd",
+      "friendly_name":"Mongrel Herd",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885340852/4E83898946C3A907478FFEC1A6DE27CF9E56AE09/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885282123/50C7B4450B6A0B56501868A9538C4011E2F467AD/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319890725045267/C41EB72BCD88FC37C6E1205058E10B14C0A3F24D/"
+    },
+    {
+      "id":6700,
+      "name":"Raiding Chariot",
+      "friendly_name":"Raiding Chariot"
+    },
+    {
       "id":6711,
       "name":"Feral Hounds",
       "friendly_name":"Feral Hounds",
