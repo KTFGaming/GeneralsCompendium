@@ -78,6 +78,16 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
-    }
+    },
+    {
+      "id":6721,
+      "name":"Gortach",
+      "friendly_name":"Gortach",
+      "rotation": 270,
+      "scale": 2,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907634/E0CFA07450839C70E7B8C0B24F8046DAE6EDEDF4/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907954/37F3F8C280A0C60A546EB86CBB5F627D694E145F/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
+    },
   ]
 }
