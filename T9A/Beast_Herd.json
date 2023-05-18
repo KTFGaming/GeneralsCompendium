@@ -74,6 +74,7 @@
       "id":6721,
       "name":"Gortach",
       "friendly_name":"Gortach",
+      "rotation": 270,
       "scale": 2,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907634/E0CFA07450839C70E7B8C0B24F8046DAE6EDEDF4/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907954/37F3F8C280A0C60A546EB86CBB5F627D694E145F/",
