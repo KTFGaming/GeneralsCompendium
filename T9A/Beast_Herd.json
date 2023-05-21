@@ -130,12 +130,7 @@
     {
       "id":6723,
       "name":"Beast Giant",
-      "friendly_name":"Beast Giant",
-      "rotation": 180,
-      "scale": 0.25,
-      "object_url":"https://paste.ee/r/zkzXi",
-      "img_url":"http://i.imgur.com/5wwnQCa.png",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
+      "friendly_name":"Beast Giant"
     }
   ]
 }
