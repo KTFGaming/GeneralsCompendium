@@ -1,1 +1,154 @@
-[{"id":6244,"name":"Damsel"},{"id":6245,"name":"Equitan Lord"},{"id":6246,"name":"Paladin"},{"id":6247,"name":"Folk Hero"},{"id":6238,"name":"Destrier"},{"id":6239,"name":"Heraldic Steed"},{"id":6240,"name":"Revered Unicorn"},{"id":6241,"name":"Pegasus Charger"},{"id":6242,"name":"Hippogriff"},{"id":6243,"name":"Fey Steed"},{"id":6248,"name":"Feudal Knights"},{"id":6249,"name":"Ordo Sergeants"},{"id":6250,"name":"Lowborn Levies"},{"id":6251,"name":"Lowborn Archers"},{"id":6252,"name":"Men-at-Arms"},{"id":6253,"name":"Sacred Reliquary"},{"id":6254,"name":"Knights Resplendent"},{"id":6255,"name":"Knights Penitent"},{"id":6256,"name":"Knights of the Quest"},{"id":6257,"name":"Hedge Knights"},{"id":6258,"name":"Yeoman Outriders"},{"id":6259,"name":"Hooded Men"},{"id":6260,"name":"Siege Weapon"},{"id":6261,"name":"Pegasus Knights"},{"id":6262,"name":"Sky Heralds"},{"id":6263,"name":"Feudal Giant"},{"id":6264,"name":"Naiads"},{"id":6265,"name":"Friar's Lanterns"},{"id":6266,"name":"The Lady's Courtier"},{"id":6267,"name":"Fey Knight"}]
+[{
+    id":6244,
+    "name":"Damsel"
+  },
+
+  {
+    id":6245,
+    "name":"Equitan Lord"
+  },
+
+  {
+    id":6246,
+    "name":"Paladin"
+  },
+
+  {
+    id":6247,
+    "name":"Folk Hero"
+  },
+
+  {
+    id":6238,
+    "name":"Destrier"
+  },
+
+  {
+    id":6239,
+    "name":"Heraldic Steed"
+  },
+
+  {
+    id":6240,
+    "name":"Revered Unicorn"
+  },
+
+  {
+    id":6241,
+    "name":"Pegasus Charger"
+  },
+
+  {
+    id":6242,
+    "name":"Hippogriff"
+  },
+
+  {
+    id":6243,
+    "name":"Fey Steed"
+  },
+
+  {
+    id":6248,
+    "name":"Feudal Knights",
+    "friendly_name":"Feudal Knights",
+    "scale": 1.0,
+    "rotation": 0,
+    "object_url":"http://cloud-3.steamusercontent.com/ugc/1920248186630521289/A2FF5F407177C15AB9F3297C415CBCDC35C79C53/",
+    "img_url":"http://cloud-3.steamusercontent.com/ugc/1920248186630340124/6C9B543DCA2E8AECB2F91508628EF24187170108/",
+    "collider_url":"http://cloud-3.steamusercontent.com/ugc/1920247650914680011/1777D3D7B4B77EE53DD0C2D3F746AB2CE0110ED0/"
+  },
+
+  {
+    id":6249,
+    "name":"Ordo Sergeants"
+  },
+
+  {
+    id":6250,
+    "name":"Lowborn Levies"
+  },
+
+  {
+    id":6251,
+    "name":"Lowborn Archers"
+  },
+
+  {
+    id":6252,
+    "name":"Men-at-Arms"
+  },
+
+  {
+    id":6253,
+    "name":"Sacred Reliquary"
+  },
+
+  {
+    id":6254,
+    "name":"Knights Resplendent"
+  },
+
+  {
+    id":6255,
+    "name":"Knights Penitent"
+  },
+
+  {
+    id":6256,
+    "name":"Knights of the Quest"
+  },
+
+  {
+    id":6257,
+    "name":"Hedge Knights"
+  },
+
+  {
+    id":6258,
+    "name":"Yeoman Outriders"
+  },
+
+  {
+    id":6259,
+    "name":"Hooded Men"
+  },
+
+  {
+    id":6260,
+    "name":"Siege Weapon"
+  },
+
+  {
+    id":6261,
+    "name":"Pegasus Knights"
+  },
+
+  {
+    id":6262,
+    "name":"Sky Heralds"
+  },
+
+  {
+    id":6263,
+    "name":"Feudal Giant"
+  },
+
+  {
+    id":6264,
+    "name":"Naiads"
+  },
+
+  {
+    id":6265,
+    "name":"Friar's Lanterns"
+  },
+
+  {
+    id":6266,
+    "name":"The Lady's Courtier"
+  },
+
+  {
+    id":6267,
+    "name":"Fey Knight"}]
