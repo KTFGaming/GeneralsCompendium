@@ -48,16 +48,14 @@
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557006410891739/E46103026E16D02DC0E7EC19AF82F8FB71276741/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1696150821009148233/05059F8ED8126C725E473DB56F0F657C5B202D77/"
     },
-
     {
       "id":6710,
       "name":"Mongrel Raiders",
       "friendly_name":"Mongrel Raiders with Bows",
-      "scale": 1.0,
+      "scale": 1,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1306556502398013555/A12DBB44BC7B372CFBD6732EA2E7BE83BBA3E4DF/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/770602354228280153/17D82B5817F414A2547E0D067A6629CBA985472A/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192018162464173/6626F6BF851EF65E959E842E3D7EDAA7AE06E7F1/"
-    },
     },
     {
       "id":6709,
