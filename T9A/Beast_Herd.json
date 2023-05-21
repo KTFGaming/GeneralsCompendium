@@ -65,43 +65,6 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885340852/4E83898946C3A907478FFEC1A6DE27CF9E56AE09/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885282123/50C7B4450B6A0B56501868A9538C4011E2F467AD/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319890725045267/C41EB72BCD88FC37C6E1205058E10B14C0A3F24D/"
-    },
-    {
-      "id":6711,
-      "name":"Feral Hounds",
-      "friendly_name":"Feral Hounds",
-      "rotation": 90,
-      "scale": 0.5,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756675797/DFA072A44C942B0BBF6F6578EE144EF639E86DAA/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1861688073976900435/07E79C3271D8569CD2AA10B3E1E8090C4132DDB6/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
-    },
-    {
-      "id":6712,
-      "name":"Longhorn Herd",
-      "friendly_name":"Longhorn Herd with Halberds",
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692263754/07ED274A711147480F3637E9ED5468389EE59EC3/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692236477/96AC559D437CB7B8F41AB1648844AB4FFE1660C8/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692248704/483E9194B63F5F43E0A487349F843F8E94FCA79B/"
-    },
-    {
-      "id":6713,
-      "name":"Minotaurs",
-      "friendly_name":"Minotaurs with Great Weapons",
-      "scale": 0.5,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911034/E6C3606A1804B24338D25AB7A60B303C2A8BA023/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
-    },
-    {
-      "id":6714,
-      "name":"Centaurs",
-      "friendly_name":"Centaurs",
-      "rotation": 0,
-      "scale": 0.5,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306556854668001938/DF3412A6DBF9016B2715A2145CE23F2CEC1C4FE5/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/922553336789848145/EF41EE249C175063C2B41DE54A87D1C0DA184B25/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
     }
   ]
 }
