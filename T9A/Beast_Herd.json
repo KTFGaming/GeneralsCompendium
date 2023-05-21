@@ -69,12 +69,7 @@
     {
       "id":6711,
       "name":"Feral Hounds",
-      "friendly_name":"Feral Hounds",
-      "rotation": 90,
-      "scale": 0.5,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756675797/DFA072A44C942B0BBF6F6578EE144EF639E86DAA/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1861688073976900435/07E79C3271D8569CD2AA10B3E1E8090C4132DDB6/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
+      "friendly_name":"Feral Hounds"
     },
     {
       "id":6712,
@@ -102,6 +97,45 @@
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1306556854668001938/DF3412A6DBF9016B2715A2145CE23F2CEC1C4FE5/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/922553336789848145/EF41EE249C175063C2B41DE54A87D1C0DA184B25/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
+    },
+    {
+      "id":6718,
+      "name":"Briar Beast",
+      "friendly_name":"Briar Beast",
+      "scale": 0.25,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/784121005865268451/555B7C30A81DE06D487A306A4328E2DBAA06EF08/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/784121005866448202/67D75BFBF2CCFD885F581289835AD8F37928B24C/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1697279438781521221/4B4BD92FD2ED697D789EF75CF9E2DE1C30683391/"
+    },
+    {
+      "id":6720,
+      "name":"Cyclops",
+      "friendly_name":"Cyclops",
+      "rotation": 90,
+      "scale": 0.25,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196702530416990/EB6C555FF2C161EBA1AC5D3A27A955EF5DC27810/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196702530417396/E8DCF36CAF39D1565FBF13480B9BA233B3BDDBB3/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
+    },
+    {
+      "id":6721,
+      "name":"Gortach",
+      "friendly_name":"Gortach",
+      "rotation": 90,
+      "scale": 0.25,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821687/33343B1C11BBFFD9671C242142730EB6FCC629E6/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
+    },
+    {
+      "id":6723,
+      "name":"Beast Giant",
+      "friendly_name":"Beast Giant",
+      "rotation": 180,
+      "scale": 0.25,
+      "object_url":"https://paste.ee/r/zkzXi",
+      "img_url":"http://i.imgur.com/5wwnQCa.png",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
     }
   ]
 }
