@@ -61,7 +61,7 @@
       "id":6709,
       "name":"Mongrel Herd",
       "friendly_name":"Mongrel Herd",
-      "scale": 1.3,
+      "scale": 1.35,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885340852/4E83898946C3A907478FFEC1A6DE27CF9E56AE09/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078437885282123/50C7B4450B6A0B56501868A9538C4011E2F467AD/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1769319890725045267/C41EB72BCD88FC37C6E1205058E10B14C0A3F24D/"
@@ -102,7 +102,7 @@
       "id":6718,
       "name":"Briar Beast",
       "friendly_name":"Briar Beast",
-      "scale": 0.08,
+      "scale": 0.085,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/784121005865268451/555B7C30A81DE06D487A306A4328E2DBAA06EF08/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/784121005866448202/67D75BFBF2CCFD885F581289835AD8F37928B24C/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1697279438781521221/4B4BD92FD2ED697D789EF75CF9E2DE1C30683391/"
