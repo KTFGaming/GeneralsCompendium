@@ -1,0 +1,115 @@
+[{	
+    "name":	"Åsklanders",
+    "file_name":"asklanders.json",
+    "initials":"ASK"
+  },
+  {
+    "name":	"Beast Herds",
+    "file_name":"Beast_Herds.json",
+    "initials":"BH"
+  },
+  {
+    "name":	"Cultists",
+    "file_name":"Cultists.json",
+    "initials":"cul"
+  },
+  {
+    "name":	"Daemon Legions",
+    "file_name":"Daemon_Legions.json",
+    "initials":"DL"
+  },
+  {
+    "name":	"Dread Elves",
+    "file_name":"Dread_Elves.json",
+    "initials":"DE"
+  },
+  {
+    "name":	"Dwarven Holds",
+    "file_name":"Dwarven_Holds.json",
+    "initials":"DH"
+  },
+  {
+    "name":	"Empire of Sonnstahl",
+    "file_name":"Empire_of_Sonnstahl.json",
+    "initials":"EoS"
+  },
+  {
+    "name":	"Highborn Elves",
+    "file_name":"Highborn_Elves.json",
+    "initials":"HE"
+  },
+  {
+    "name":	"Hobgoblins",
+    "file_name":"Hobgoblins.json",
+    "initials":"hob"
+  },
+  {
+    "name":	"Infernal Dwarves",
+    "file_name":"Infernal_Dwarves.json",
+    "initials":"ID"
+  },
+  {
+    "name":	"Kingdom of Equitaine",
+    "file_name":"Kingdom_of_Equitaine.json",
+    "initials":"KoE"
+  },
+  {
+    "name":	"Legions of sin",
+    "file_name":"Legions_of_sin.json",
+    "initials":"LoS"
+  },
+  {
+    "name":	"Makhar",
+    "file_name":"Makhar.json",
+    "initials":"Mak"
+  },
+  {
+    "name":	"Mercenary Guilds",
+    "file_name":"Mercenary_Guilds.json",
+    "initials":"MG"
+  },
+  {
+    "name":	"Nippon",
+    "file_name":"Nippon.json",
+    "initials":"Nip"
+  },
+  {
+    "name":	"Ogre Khans",
+    "file_name":"Ogre_Khans.json",
+    "initials":"OK"
+  },
+  {
+    "name":	"Orcs and Goblins",
+    "file_name":"Orcs_and_Goblins.json",
+    "initials":"ONG"
+  },
+  {
+    "name":	"Saurian Ancients",
+    "file_name":"Saurian_Ancients.json",
+    "initials":"SA"
+  },
+  {
+    "name":	"Sylvan Elves",
+    "file_name":"Sylvan_Elves.json",
+    "initials":"SE"
+  },
+  {
+    "name":	"Undying Dynasties",
+    "file_name":"Undying_Dynasties.json",
+    "initials":"UD"
+  },
+  {
+    "name":	"Vampire Covenant",
+    "file_name":"Vampire_Covenant.json",
+    "initials":"VC"
+  },
+  {
+    "name":	"Vermin Swarm",
+    "file_name":"Vermin_Swarm.json",
+    "initials":"VS"
+  },
+  {
+    "name":	"Warriors of the Dark Gods",
+    "file_name":"Warriors_of_the_Dark_Gods.json",
+    "initials":"WDG"
+  }]
