@@ -62,9 +62,17 @@
       "name":"Feral Hounds",
       "friendly_name":"Feral Hounds",
       "scale": 1,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947421884/C9F48B62B333D6FDA9B125E587C2A32A4E52D98F/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947423558/DFD8EA353E0C679D5FDAB25565CD45E84E31B2DD/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756675797/DFA072A44C942B0BBF6F6578EE144EF639E86DAA/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1861688073976900435/07E79C3271D8569CD2AA10B3E1E8090C4132DDB6/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756663572/12E5D84B01B0878F987743E8C28222B8F706C15C/"
+    },
+    {
+      "id":6712,
+      "name":"Longhorn Herd",
+      "friendly_name":"Longhorn Herd with Halberds",
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692263754/07ED274A711147480F3637E9ED5468389EE59EC3/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692236477/96AC559D437CB7B8F41AB1648844AB4FFE1660C8/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192653692248704/483E9194B63F5F43E0A487349F843F8E94FCA79B/"
     },
     {
       "id":6713,
@@ -76,14 +84,23 @@
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
     },
     {
+      "id":6715,
+      "name":"Raiding Chariots",
+      "friendly_name":"Raiding Chariots",
+      "scale": 1.0,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910955419/897D5E2E0A38643E734E063C53EC27491F339C9C/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910455332/0CF34D60D6CE3A29AD8984C870C63743020804DF/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1676990001713072853/1E5F44EF6DB0C48B2D15C3E619EC5B8E37AED39B/"
+    },
+    {
       "id":6721,
       "name":"Gortach",
       "friendly_name":"Gortach",
       "rotation": 270,
       "scale": 0.5,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907634/E0CFA07450839C70E7B8C0B24F8046DAE6EDEDF4/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920907954/37F3F8C280A0C60A546EB86CBB5F627D694E145F/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/"
     }
   ]
 }
