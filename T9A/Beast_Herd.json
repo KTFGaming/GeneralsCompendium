@@ -61,7 +61,8 @@
       "id":6711,
       "name":"Feral Hounds",
       "friendly_name":"Feral Hounds",
-      "scale": 1,
+      "rotation": 270,
+      "scale": 0.5,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756675797/DFA072A44C942B0BBF6F6578EE144EF639E86DAA/",
       "img_url":"http://cloud-3.steamusercontent.com/ugc/1861688073976900435/07E79C3271D8569CD2AA10B3E1E8090C4132DDB6/",
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1862813905756663572/12E5D84B01B0878F987743E8C28222B8F706C15C/"
@@ -84,13 +85,24 @@
       "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
     },
     {
-      "id":6715,
-      "name":"Raiding Chariots",
-      "friendly_name":"Raiding Chariots",
+      "id":6718,
+      "name":"Briar Beast",
+      "friendly_name":"Briar Beast",
+      "rotation": 0,
       "scale": 1.0,
-      "object_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910955419/897D5E2E0A38643E734E063C53EC27491F339C9C/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1749078754910455332/0CF34D60D6CE3A29AD8984C870C63743020804DF/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1676990001713072853/1E5F44EF6DB0C48B2D15C3E619EC5B8E37AED39B/"
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/784121005865268451/555B7C30A81DE06D487A306A4328E2DBAA06EF08/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/784121005866448202/67D75BFBF2CCFD885F581289835AD8F37928B24C/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/784121005865257829/99737E0E5375CD302C8C0A1E1ADC9A35D5767721/"
+    },
+    {
+      "id":6720,
+      "name":"Cyclops",
+      "friendly_name":"Cyclops",
+      "rotation": 0,
+      "scale": 1.0,
+      "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196702530416990/EB6C555FF2C161EBA1AC5D3A27A955EF5DC27810/",
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196702530417396/E8DCF36CAF39D1565FBF13480B9BA233B3BDDBB3/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192018162464173/6626F6BF851EF65E959E842E3D7EDAA7AE06E7F1/"
     },
     {
       "id":6721,
@@ -99,8 +111,8 @@
       "rotation": 270,
       "scale": 0.5,
       "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
-      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
-      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/"
+      "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821687/33343B1C11BBFFD9671C242142730EB6FCC629E6/",
+      "collider_url":"http://cloud-3.steamusercontent.com/ugc/1625192018162464173/6626F6BF851EF65E959E842E3D7EDAA7AE06E7F1/"
     }
   ]
 }
