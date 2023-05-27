@@ -158,7 +158,7 @@
     "name":"Gortach",
     "friendly_name":"Gortach",
     "rotation": 90,
-    "scale": 0.25,
+    "scale": 0.50,
     "object_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821201/DFA5043CA6E64361714A8EFBF103A177CF0D8E0A/",
     "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821687/33343B1C11BBFFD9671C242142730EB6FCC629E6/",
     "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
