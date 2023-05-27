@@ -1,5 +1,14 @@
 [
-{
+ {
+    "id":6702,
+    "name":"Beast Lord",
+    "friendly_name":"Beast Lord",
+    "scale": 1.5,
+    "object_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920905359/7F47B565B02F72466737E99B54E333A8F61A3FD8/",
+    "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920905577/B75DB20C8ACB7564B2AB3264F0FBAAEA760835AB/",
+    "collider_url":"http://cloud-3.steamusercontent.com/ugc/1696150821009148233/05059F8ED8126C725E473DB56F0F657C5B202D77/"
+  },
+  {
     "id":6703,
     "name":"Beast Chieftain",
     "friendly_name":"Beast Chieftain",
@@ -36,6 +45,16 @@
     "img_url":"http://cloud-3.steamusercontent.com/ugc/1306557157920911368/81979C28547F20AC398AB96C8855530CC782D757/",
     "collider_url":"http://cloud-3.steamusercontent.com/ugc/1595918438107028794/1DF7C5FB5E2EAFD3B19CAE8C89E5293F0821617A/"
   },
+  {
+    "id":6700,
+    "name":"Raiding Chariot",
+    "friendly_name":"Raiding Chariot"
+  },
+  {
+    "id":6701,
+    "name":"Razortusk Chariot",
+    "friendly_name":"Razortusk Chariot"
+  },  
   {
     "id":6708,
     "name":"Wildhorn Herd",
@@ -96,6 +115,21 @@
     "collider_url":"http://cloud-3.steamusercontent.com/ugc/1904485587947424842/31E3C559344DC3992B75D290FB45C4D6D3776CB3/"
   },
   {
+    "id":6715,
+    "name":"Raiding Chariots",
+    "friendly_name":"Raiding Chariots"
+  },
+  {
+    "id":6716,
+    "name":"Razortusk Herd",
+    "friendly_name":"Razortusk Herd"
+  },
+  {
+    "id":6717,
+    "name":"Razortusk Chariot",
+    "friendly_name":"Razortusk Chariot"
+  },  
+  {
     "id":6718,
     "name":"Briar Beast",
     "friendly_name":"Briar Beast",
@@ -124,6 +158,14 @@
     "img_url":"http://cloud-3.steamusercontent.com/ugc/1768196642447821687/33343B1C11BBFFD9671C242142730EB6FCC629E6/",
     "collider_url":"http://cloud-3.steamusercontent.com/ugc/1490083042209466573/E2D2F2D80B44F2B5F149D4B37A4CA6F324FF0411/"
   },
+  {
+    "id":6722,
+    "name":"Jabberwock",
+    "friendly_name":"Jabberwock",
+    "object_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/",
+    "img_url":"http://cloud-3.steamusercontent.com/ugc/1838045577743518688/7345AB95554735292B17238E1E4CAEFD258FD30A/",
+    "collider_url":"http://cloud-3.steamusercontent.com/ugc/922548392948828905/4BB2CBEC1D9818BE991F1206D707182E31477121/"
+  },  
   {
     "id":6723,
     "name":"Beast Giant",
